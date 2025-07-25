@@ -1,7 +1,8 @@
 # Nomad Mahmud 🌍🧑‍💻☕
 
 <div>
-  Hi! I’m your friendly neighborhood full-stack developer who also knows a bit of DevOps magic (aka pressing buttons until things work).Currently a 9-to-5 employed slave, but plotting my great escape to become a free-spirited digital nomad — coding from beaches, mountains, or anywhere WiFi dares to reach.  
+  Hi! I’m your friendly neighborhood full-stack developer who also knows a bit of DevOps magic (aka pressing buttons until things work).
+  Currently a 9-to-5 employed slave, but plotting my great escape to become a free-spirited digital nomad — coding from beaches, mountains, or anywhere WiFi dares to reach.  
 </div>
 
 ---
