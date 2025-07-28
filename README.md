@@ -47,7 +47,7 @@
 
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am-mahmud&show_icons=true&theme=tokyonight&hide_border=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight&hide_border=false) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?&theme=tokyo-night) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=tokyo-night) |
 
 ---
 
