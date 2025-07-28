@@ -50,26 +50,29 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=tokyo-night) |
 
 ---
-## 🚀 My GitHub Performance  
+## ⚡ GitHub Highlights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=am-mahmud&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="160" />
-</p>
+### 🎯 **My GitHub Stats & Streak**
+<img src="https://github-readme-stats.vercel.app/api?username=am-mahmud&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=EAEAEA&text_color=FFFFFF&icon_color=F7DC6F&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=am-mahmud&theme=radical&background=130F40&border=000000&stroke=FFFFFF&ring=F7DC6F&fire=EAEAEA&currStreakLabel=F7DC6F&hide_border=true" height="165" />
 
 ---
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=tokyo-night&hide_border=false&area=true" alt="GitHub Activity Graph" />
-</p>
+### 🧩 **Languages & Tools**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=radical&bg_color=0,130F40,000000&title_color=F7DC6F&text_color=FFFFFF&hide_border=true" height="150" />
+
+---
+
+### 🌌 **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=react-dark&bg_color=000000&line=F7DC6F&color=EAEAEA&area=true&hide_border=true" />
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20with%20❤️%20by-am--mahmud-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Journey-In%20Progress-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Powered%20by-n8n%20&%20Linux-FF5733?style=for-the-badge" />
 </p>
