@@ -50,3 +50,26 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=tokyo-night) |
 
 ---
+## 🚀 My GitHub Performance  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=am-mahmud&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-mahmud&theme=tokyo-night&hide_border=false&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20with%20❤️%20by-am--mahmud-orange?style=for-the-badge" />
+</p>
