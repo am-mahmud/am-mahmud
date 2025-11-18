@@ -12,6 +12,13 @@
 
 <br/>
 
+<!-- ======================= NAME + DESIGNATION ======================= -->
+<h1 align="center">Hi, I'm <span style="color:#00BF63;">Asif Mahmud</span> 👨‍💻</h1>
+<h3 align="center">MERN Stack Developer | DevOps Learner | Cloud Enthusiast</h3>
+
+<br/>
+
+
 <!-- ======================= ABOUT + IMAGE ======================= -->
 <table>
   <tr>
@@ -20,9 +27,13 @@
 <h3>🙋‍♂️ About Me</h3>
 <ul>
   <li>🚀 Self Taught MERN Stack Developer</li>
+  <li>🤝 Open to collaborations, research papers & journals</li>
+</ul>
+
+<h3>🔥 Current Activities</h3>
+<ul>
   <li>🛠 Exploring DevOps, AWS & Go</li>
   <li>📚 Learning system design & backend architecture</li>
-  <li>🤝 Open to collaborations, research papers & journals</li>
 </ul>
 
 <h3>📬 Connect with Me</h3>
@@ -38,7 +49,7 @@
 
   <td width="40%" align="center">
       <img src="./assets/dev.gif" width="90%" />
-  </td>
+    </td>
   </tr>
 </table>
 
@@ -83,3 +94,12 @@
   </td>
   </tr>
 </table>
+
+<!-- ======================= GITHUB STATS ======================= -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight" height="180px" />
+</p>
+
