@@ -1,20 +1,18 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="./assets/git-banner.png" alt="" width="100%" />
+  <img src="./assets/banner-git.png" alt="" width="100%" />
 </p>
 
 <!-- ======================= GREETINGS ======================= -->
-<!-- <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BF63&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;+Nice+to+Meet+You!+;Welcome+to+my+github+profile+" alt="Typing SVG" />
-  </p>
-</div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BF63&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;+Nice+to+Meet+You!+;Welcome+to+my+github+profile+" alt="Typing SVG" />
+</div>
 
 <br/>
 
 <!-- ======================= NAME + DESIGNATION ======================= -->
-<h1 align="center">Hi, I'm <span style="color:#00BF63;">Asif Mahmud</span> 👨‍💻</h1>
-<h3 align="center">MERN Stack Developer | DevOps Learner | Cloud Enthusiast</h3>
+<h1 align="center">I am Asif Mahmud</h1>
+<h3 align="center">Full Stack Programmer • MERN • Cloud • IoT</h3>
 
 <br/>
 
@@ -102,7 +100,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-mahmud&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-mahmud&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
