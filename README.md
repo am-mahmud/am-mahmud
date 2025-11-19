@@ -4,11 +4,11 @@
 </p>
 
 <!-- ======================= GREETINGS ======================= -->
-<div align="center">
+<!-- <div align="center">
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BF63&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;+Nice+to+Meet+You!+;Welcome+to+my+github+profile+" alt="Typing SVG" />
   </p>
-</div>
+</div> -->
 
 <br/>
 
@@ -25,6 +25,9 @@
     <td width="60%" valign="top">
 
 <h3>🙋‍♂️ About Me</h3>
+
+<p><strong>I'm a passionate MERN Stack Developer who loves building scalable, high-performance web applications. I enjoy exploring new technologies, optimizing systems, and deep diving into backend architecture.</strong></p>
+
 <ul>
   <li>🚀 Self Taught MERN Stack Developer</li>
   <li>🤝 Open to collaborations, research papers & journals</li>
